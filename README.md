@@ -1,1 +1,2 @@
-# dist
+# release
+lastest release resources
