@@ -7,3 +7,28 @@ test.txt
 
 sent 402 bytes  received 59 bytes  922.00 bytes/sec
 total size is 24,657,331  speedup is 53,486.62
+[master d0d4e7f] update
+ Committer: Getcaidao <root@web-server.asia-southeast1-b.c.caidao-260613.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 10 insertions(+)
+ create mode 100644 nohup.out
+ create mode 100644 rrr.txt
+ create mode 100644 test.txt
+To https://github.com/getcaidao/dist.git
+   9ff310e..d0d4e7f  master -> master
+sending incremental file list
+rrr.txt
+              3 100%    0.00kB/s    0:00:00                3 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=7/14)
+
+sent 357 bytes  received 37 bytes  788.00 bytes/sec
+total size is 24,657,334  speedup is 62,582.07
