@@ -372,3 +372,11 @@ sending incremental file list
 
 sent 310 bytes  received 14 bytes  648.00 bytes/sec
 total size is 24,657,347  speedup is 76,102.92
+[master ca4729a] update
+ 1 file changed, 8 insertions(+)
+To https://github.com/getcaidao/dist.git
+   414a673..ca4729a  master -> master
+sending incremental file list
+
+sent 310 bytes  received 14 bytes  648.00 bytes/sec
+total size is 24,657,347  speedup is 76,102.92
