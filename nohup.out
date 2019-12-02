@@ -192,3 +192,23 @@ sending incremental file list
 
 sent 310 bytes  received 14 bytes  648.00 bytes/sec
 total size is 24,657,334  speedup is 76,102.88
+[master c3bb6e0] update
+ Committer: Getcaidao <root@web-server.asia-southeast1-b.c.caidao-260613.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 20 insertions(+)
+To https://github.com/getcaidao/dist.git
+   027f8fa..c3bb6e0  master -> master
+sending incremental file list
+
+sent 310 bytes  received 14 bytes  648.00 bytes/sec
+total size is 24,657,334  speedup is 76,102.88
