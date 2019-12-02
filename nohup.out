@@ -364,3 +364,11 @@ rrr.txt
 
 sent 364 bytes  received 37 bytes  802.00 bytes/sec
 total size is 24,657,347  speedup is 61,489.64
+[master 414a673] update
+ 2 files changed, 11 insertions(+)
+To https://github.com/getcaidao/dist.git
+   1aae90b..414a673  master -> master
+sending incremental file list
+
+sent 310 bytes  received 14 bytes  648.00 bytes/sec
+total size is 24,657,347  speedup is 76,102.92
