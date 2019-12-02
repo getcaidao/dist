@@ -348,3 +348,9 @@ After doing this, you may fix the identity used for this commit with:
  1 file changed, 20 insertions(+)
 To https://github.com/getcaidao/dist.git
    14e1124..be09e70  master -> master
+sending incremental file list
+rrr.txt
+              0 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=7/14)
+
+sent 356 bytes  received 37 bytes  786.00 bytes/sec
+total size is 24,657,332  speedup is 62,741.30
