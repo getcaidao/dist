@@ -1,0 +1,9 @@
+sending incremental file list
+./
+rrr.txt
+              0 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=7/14)
+test.txt
+              3 100%    0.00kB/s    0:00:00                3 100%    0.00kB/s    0:00:00 (xfr#2, to-chk=6/14)
+
+sent 402 bytes  received 59 bytes  922.00 bytes/sec
+total size is 24,657,331  speedup is 53,486.62
