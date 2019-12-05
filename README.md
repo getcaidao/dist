@@ -1,2 +1,2 @@
 # release
-lastest release resources
+lastest release resources.
